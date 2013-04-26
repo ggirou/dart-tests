@@ -1,0 +1,6 @@
+name: proxy_class
+description: Proxy class POC
+
+
+dev_dependencies:
+  unittest: any
