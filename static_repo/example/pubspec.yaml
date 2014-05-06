@@ -1,0 +1,7 @@
+name: static_repo_example
+description:
+dependencies:
+  browser:
+    hosted:
+      name: browser
+      url: http://ggirou.github.io/dart-tests/

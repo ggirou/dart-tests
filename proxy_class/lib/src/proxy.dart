@@ -2,16 +2,16 @@ part of proxy_class;
 
 class Proxy {
   final InstanceHolder _holder;
-  
+
   Proxy(this._holder);
-  
+
   dynamic noSuchMethod(Invocation invocation) {
     var instance = _holder.instance;
     if(instance == null){
       // Exception ?
-      return;
+      return null;
     }
-    
+
     InstanceMirror instanceMirror = reflect(instance);
     if(invocation.isGetter) {
       return instanceMirror.getField(invocation.memberName).reflectee;

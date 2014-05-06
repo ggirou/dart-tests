@@ -1,0 +1,7 @@
+name: static_repo
+description: A simple packages repository
+version: 0.0.1
+author: Guillaume Girou <gg-dartlang@yopmail.com>
+homepage: https://github.com/ggirou/dart-tests/tree/master/static_repo
+dependencies:
+  http_server: ">=0.9.2 <0.10.0"
