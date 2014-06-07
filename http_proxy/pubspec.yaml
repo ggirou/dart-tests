@@ -1,4 +1,4 @@
 name: http_proxy
 description: A sample command-line application
-#dev_dependencies:
-#  unittest: any
+dev_dependencies:
+  unittest: any
