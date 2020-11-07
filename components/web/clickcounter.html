@@ -1,0 +1,14 @@
+<link rel="import" href="loader.html">
+<polymer-element name="click-counter" attributes="count">
+  <template>
+    <x-loader>
+      <div>
+        <button on-click="{{increment}}">Click me</button><br>
+        <span>(click count: {{count}})</span>
+      </div>
+      {{data}}
+    </x-loader>
+  </template>
+  <script type="application/dart" src="clickcounter.dart"></script>
+</polymer-element>
+

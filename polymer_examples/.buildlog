@@ -1,0 +1,93 @@
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/index.html","message":"custom element with tag name todo-app not found.","line":16,"charStart":475,"charEnd":485}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name polymer-element not found.","line":14,"charStart":388,"charEnd":421}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name todo-row not found.","line":29,"charStart":914,"charEnd":944}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name router-options not found.","line":36,"charStart":1146,"charEnd":1175}}]
+[{"method":"warning","params":{"file":"web\\router_options.html","message":"custom element with tag name polymer-element not found.","line":12,"charStart":292,"charEnd":344}}]
+[{"method":"warning","params":{"file":"web\\todo_row.html","message":"custom element with tag name polymer-element not found.","line":13,"charStart":335,"charEnd":399}}]
+[{"method":"warning","params":{"file":"web\\todo_row.html","message":"custom element with tag name editable-label not found.","line":127,"charStart":2692,"charEnd":2750}}]
+[{"method":"warning","params":{"file":"web\\editable_label.html","message":"custom element with tag name polymer-element not found.","line":12,"charStart":292,"charEnd":364}}]
+Total time spent on web/index.html                           -- 2876 ms
+[{"method":"generated","params":{"file":"web\\out\\index.html.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/index.html","to":"web\\out\\index.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\base.css"}}]
+Total time                                                   -- 6859 ms
+build.dart finished [9686 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/index.html","message":"custom element with tag name todo-app not found.","line":16,"charStart":475,"charEnd":485}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name polymer-element not found.","line":14,"charStart":388,"charEnd":421}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name todo-row not found.","line":29,"charStart":914,"charEnd":944}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name router-options not found.","line":36,"charStart":1146,"charEnd":1175}}]
+[{"method":"warning","params":{"file":"web\\router_options.html","message":"custom element with tag name polymer-element not found.","line":12,"charStart":292,"charEnd":344}}]
+[{"method":"warning","params":{"file":"web\\todo_row.html","message":"custom element with tag name polymer-element not found.","line":13,"charStart":335,"charEnd":399}}]
+[{"method":"warning","params":{"file":"web\\todo_row.html","message":"custom element with tag name editable-label not found.","line":127,"charStart":2692,"charEnd":2750}}]
+[{"method":"warning","params":{"file":"web\\editable_label.html","message":"custom element with tag name polymer-element not found.","line":12,"charStart":292,"charEnd":364}}]
+Total time spent on web/index.html                           -- 4058 ms
+[{"method":"generated","params":{"file":"web\\out\\index.html.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/index.html","to":"web\\out\\index.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\base.css"}}]
+Total time                                                   -- 7222 ms
+build.dart finished [10989 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/index.html","message":"custom element with tag name todo-app not found.","line":16,"charStart":475,"charEnd":485}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name polymer-element not found.","line":14,"charStart":388,"charEnd":421}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name todo-row not found.","line":29,"charStart":914,"charEnd":944}}]
+[{"method":"warning","params":{"file":"web\\app.html","message":"custom element with tag name router-options not found.","line":36,"charStart":1146,"charEnd":1175}}]
+[{"method":"warning","params":{"file":"web\\router_options.html","message":"custom element with tag name polymer-element not found.","line":12,"charStart":292,"charEnd":344}}]
+[{"method":"warning","params":{"file":"web\\todo_row.html","message":"custom element with tag name polymer-element not found.","line":13,"charStart":335,"charEnd":399}}]
+[{"method":"warning","params":{"file":"web\\todo_row.html","message":"custom element with tag name editable-label not found.","line":127,"charStart":2692,"charEnd":2750}}]
+[{"method":"warning","params":{"file":"web\\editable_label.html","message":"custom element with tag name polymer-element not found.","line":12,"charStart":292,"charEnd":364}}]
+Total time spent on web/index.html                           -- 2314 ms
+[{"method":"generated","params":{"file":"web\\out\\index.html.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\out\\model.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/index.html","to":"web\\out\\index.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\index.html"}}]
+[{"method":"generated","params":{"file":"web\\out\\base.css"}}]
+Total time                                                   -- 2411 ms
+build.dart finished [4681 ms]
+
+---
+build.dart --machine --full
+Uncaught Error: FileSystemException: Cannot open file, path = 'D:\dev\dart\dart-tests\polymer_examples\packages\polymer\component_build.dart' (OS Error: Le chemin d’accès spécifié est introuvable.
+, errno = 3)
+Stack Trace: 
+#0      _File.open.<anonymous closure> (dart:io/file_impl.dart:349)
+#1      _rootRunUnary (dart:async/zone.dart:730)
+#2      _RootZone.runUnary (dart:async/zone.dart:864)
+#3      _Future._propagateToListeners.handleValueCallback (dart:async/future_impl.dart:488)
+#4      _Future._propagateToListeners (dart:async/future_impl.dart:571)
+#5      _Future._completeWithValue (dart:async/future_impl.dart:331)
+#6      _Future._asyncComplete.<anonymous closure> (dart:async/future_impl.dart:393)
+#7      _asyncRunCallbackLoop (dart:async/schedule_microtask.dart:23)
+#8      _asyncRunCallback (dart:async/schedule_microtask.dart:32)
+#9      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:128)
+
+
+Unhandled exception:
+FileSystemException: Cannot open file, path = 'D:\dev\dart\dart-tests\polymer_examples\packages\polymer\component_build.dart' (OS Error: Le chemin d’accès spécifié est introuvable.
+, errno = 3)
+#0      _rootHandleUncaughtError.<anonymous closure>.<anonymous closure> (dart:async/zone.dart:713)
+#1      _asyncRunCallbackLoop (dart:async/schedule_microtask.dart:23)
+#2      _asyncRunCallback (dart:async/schedule_microtask.dart:32)
+#3      _asyncRunCallback (dart:async/schedule_microtask.dart:36)
+#4      _RawReceivePortImpl._handleMessage (dart:isolate-patch/isolate_patch.dart:128)
+build.dart finished [251 ms]
+

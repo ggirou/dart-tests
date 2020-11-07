@@ -1,0 +1,6 @@
+name: polymer_example
+description: Examples of Polymer.dart
+dependencies:
+  polymer: any
+dev_dependencies:
+  unittest: any

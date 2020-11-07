@@ -56,9 +56,7 @@ main() {
     });
     
     test('calls concat', () {
-      // FIXME: named argument support is not implemented
-      // expect(proxy.concat("aa", "bb", d: "dd"), m.equals("aabbdd"));
-      expect(proxy.concat("aa", "bb", d: "dd"), m.equals("aabb"));
+      expect(proxy.concat("aa", "bb", d: "dd"), m.equals("aabbdd"));
     });
     
     test('calls sum', () {

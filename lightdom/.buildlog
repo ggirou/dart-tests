@@ -1,0 +1,221 @@
+---
+build.dart --machine --full
+
+build.dart finished [3574 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [6603 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [3215 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [3125 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3512 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3484 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2439 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3174 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [3286 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3180 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [2629 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [2040 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [3104 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [3085 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3512 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2076 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [2736 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3175 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [2711 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2978 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2677 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2324 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [4148 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3386 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [2963 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2889 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3074 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+[{"method":"error","params":{"file":"web/clickcounter.html","message":"couldn't find imported asset \"lib/polymer.html\" in package \"polymer\".","line":1,"charStart":0,"charEnd":56}}]
+build failed with errors: {Transform polymer (Linter) on lightdom|web/clickcounter.html threw error: couldn't find imported asset "lib/polymer.html" in package "polymer".}
+build.dart finished [4268 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [1783 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [1872 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [4448 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [1787 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [1641 ms]
+
+---
+build.dart --machine --changed=web\lightdom.html
+
+build.dart finished [2417 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [1851 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2265 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2630 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2430 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1644 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1551 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":66}}]
+build.dart finished [3911 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2562 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [5908 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2858 ms]
+

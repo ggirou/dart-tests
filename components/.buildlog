@@ -1,0 +1,289 @@
+---
+build.dart --machine --full
+
+build.dart finished [4005 ms]
+
+---
+build.dart --machine --changed=web\loader.dart --changed=web\loader.html
+
+build.dart finished [1596 ms]
+
+---
+build.dart --machine --changed=web\loader.dart
+
+build.dart finished [1598 ms]
+
+---
+build.dart --machine --changed=web\loader.dart
+
+build.dart finished [1662 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [1650 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [1661 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [1614 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [1626 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2892 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2010 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [2651 ms]
+
+---
+build.dart --machine --changed=web\loader.dart
+
+build.dart finished [2786 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2222 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [3874 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [8614 ms]
+
+---
+build.dart --machine --changed=web\loader.dart
+
+build.dart finished [2009 ms]
+
+---
+build.dart --machine --changed=web\loader.dart
+
+build.dart finished [2174 ms]
+
+---
+build.dart --machine --changed=web\loader.dart
+
+build.dart finished [2049 ms]
+
+---
+build.dart --machine --changed=web\loader.dart
+
+build.dart finished [2564 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2389 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [7073 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [3751 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4036 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4692 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [5105 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+
+build.dart finished [5331 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2770 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2823 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2553 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4029 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4399 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4145 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [3900 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2489 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2417 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2415 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [3243 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4960 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [3208 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4212 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2520 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2839 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [5402 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [3088 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [3291 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4902 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [4040 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2695 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2647 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [3852 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [3464 ms]
+
+---
+build.dart --machine --changed=web\loader.html
+
+build.dart finished [2272 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [5725 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/loader.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":52}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":2,"charStart":39,"charEnd":96}}]
+build.dart finished [3243 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+[{"method":"warning","params":{"file":"web/loader.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":52}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":2,"charStart":39,"charEnd":96}}]
+build.dart finished [7440 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+[{"method":"warning","params":{"file":"web/loader.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":52}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":2,"charStart":39,"charEnd":105}}]
+build.dart finished [2124 ms]
+
+---
+build.dart --machine --changed=web\clickcounter.html
+[{"method":"warning","params":{"file":"web/loader.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":52}}]
+[{"method":"warning","params":{"file":"web/clickcounter.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":2,"charStart":39,"charEnd":96}}]
+build.dart finished [2518 ms]
+
